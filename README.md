@@ -133,6 +133,7 @@ Junior Developer, passionate about building game dev and full stack projects. Se
 ### Personal Projects
 
 * 🌟 Godot First Person Demo/proof of concept
+* 📄 **Custom Portfolio:** Building a GSAP-driven site to house my 3D renders, art and code.
 * 💡 Learning Unreal 
 
 
