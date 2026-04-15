@@ -142,3 +142,5 @@ Junior Developer, passionate about building game dev and full stack projects. Se
 ### 📫 Contact 
 
 Feel free to reach out via my website/portfolio when it launches. 
+
+![Profile views](https://komarev.com/ghpvc/?username=your-github-username)
