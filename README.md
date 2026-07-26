@@ -4,6 +4,7 @@
 ### ✨ About Me
 
 Junior Developer, passionate about building game dev and full stack projects. Seeking to bridge the gap between high-end design and functional code.
+Currently enrolled in the CFGDegree!
 
 
 ---
